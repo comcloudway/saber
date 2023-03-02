@@ -7,18 +7,18 @@
   "de": {
     "settings": {
       "prefLabels": {
-        "editorOpaqueBackgrounds": "Opaque backgrounds"
+        "editorOpaqueBackgrounds": "Undurchsichtige Hintergründe"
       },
       "prefDescriptions": {
-        "editorOpaqueBackgrounds": "Remove transparency from background images and PDFs"
+        "editorOpaqueBackgrounds": "Transparenz aus Hintergrundbildern und PDFs entfernen"
       }
     },
     "editor": {
       "hud": {
-        "unlockPan": "Enable single-finger panning",
-        "lockPan": "Disable single-finger panning"
+        "unlockPan": "Mit-einem-Finger-verschieben aktivieren",
+        "lockPan": "Mit-einem-Finger-verschieben deaktivieren"
       },
-      "untitled": "Untitled"
+      "untitled": "Unbenannt"
     }
   },
   "es": {},
